@@ -1,1 +1,2 @@
 2026-01-01 — documented initial repository setup tweak
+2026-01-01 — recorded README wording adjustment
