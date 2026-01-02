@@ -5,3 +5,4 @@
 2026-01-01 — recorded final small UI or documentation tweak
 2026-01-02 — recorded dependency or configuration tweak
 2026-01-02 — recorded component or file organization tweak
+2026-01-02 — recorded documentation improvement
