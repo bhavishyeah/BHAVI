@@ -27,3 +27,4 @@
 2026-01-05 — refined dental homepage spacing and sections
 2026-01-06 — updated dental service cards
 2026-01-06 — improved responsive styling for dental pages
+2026-01-06 — refined navigation and page structure
