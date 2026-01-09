@@ -31,3 +31,4 @@
 2026-01-09 — updated dental appointment section
 2026-01-09 — refined contact form layout
 2026-01-09 — improved dentist profile content
+2026-01-09 — tested dental pages on different screen sizes
