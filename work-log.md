@@ -35,3 +35,4 @@
 2026-01-10 — polished dental website visual styling
 2026-01-10 — fixed minor UI issues
 2026-01-10 — updated project documentation
+2026-01-12 — updated dental homepage hero content
