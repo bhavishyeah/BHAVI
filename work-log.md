@@ -39,3 +39,4 @@
 2026-01-12 — refined dental homepage grid and spacing
 2026-01-13 — updated dental services section layout
 2026-01-13 — improved dental pricing table styling
+2026-01-13 — refined typography for dental pages
