@@ -95,3 +95,4 @@
 2026-01-13 — styled primary call to action buttons with branding colors
 2026-01-13 — integrated footer links and social media icons
 2026-01-14 — optimized home page loading performance and image sizes
+2026-01-14 — fixed flexbox alignment issues on tablet viewports
