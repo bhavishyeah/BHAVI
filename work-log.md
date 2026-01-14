@@ -42,3 +42,4 @@
 2026-01-13 — refined typography for dental pages
 2026-01-13 — cleaned up reusable components for dental site
 2026-01-14 — improved responsive layout for dental pages
+2026-01-14 — updated navigation behavior on mobile
