@@ -96,3 +96,4 @@
 2026-01-13 — integrated footer links and social media icons
 2026-01-14 — optimized home page loading performance and image sizes
 2026-01-14 — fixed flexbox alignment issues on tablet viewports
+2026-01-14 — updated typography hierarchy and accessible font scaling
