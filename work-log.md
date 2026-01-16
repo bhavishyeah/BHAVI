@@ -45,3 +45,4 @@
 2026-01-14 — updated navigation behavior on mobile
 2026-01-14 — tuned colors and contrasts for dental branding
 2026-01-15 — updated dental FAQ and info content
+2026-01-16 — refined appointment booking flow copy
