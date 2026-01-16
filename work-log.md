@@ -99,3 +99,4 @@
 2026-01-14 — updated typography hierarchy and accessible font scaling
 2026-01-15 — added initial community programs highlight section
 2026-01-16 — refined contact form layout and input styling
+2026-01-16 — implemented client-side validation for the newsletter signup
