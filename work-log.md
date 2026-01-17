@@ -47,3 +47,4 @@
 2026-01-15 — updated dental FAQ and info content
 2026-01-16 — refined appointment booking flow copy
 2026-01-16 — adjusted form validation and messages
+2026-01-17 — optimized dental images and assets
