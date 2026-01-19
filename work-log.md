@@ -53,3 +53,4 @@
 2026-01-18 — set up Nissan GTR 3D project structure
 2026-01-18 — configured basic Three.js scene and camera for GTR model
 2026-01-19 — integrated Nissan GTR 3D model into scene
+2026-01-19 — added orbit controls and basic lighting for GTR showcase
