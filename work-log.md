@@ -56,3 +56,4 @@
 2026-01-19 — added orbit controls and basic lighting for GTR showcase
 2026-01-19 — set up responsive layout for premium showroom homepage
 2026-01-19 — implemented base navigation sections for GTR showroom
+2026-01-20 — refined showroom hero section around Nissan GTR model
