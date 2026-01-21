@@ -60,3 +60,4 @@
 2026-01-20 — tuned lighting and material tweaks for GTR visuals
 2026-01-21 — implemented scroll-based animations for GTR sections
 2026-01-21 — added performance tweaks for Three.js rendering
+2026-01-21 — connected UI controls to GTR camera perspectives
