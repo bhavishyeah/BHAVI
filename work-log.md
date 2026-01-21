@@ -58,3 +58,4 @@
 2026-01-19 — implemented base navigation sections for GTR showroom
 2026-01-20 — refined showroom hero section around Nissan GTR model
 2026-01-20 — tuned lighting and material tweaks for GTR visuals
+2026-01-21 — implemented scroll-based animations for GTR sections
