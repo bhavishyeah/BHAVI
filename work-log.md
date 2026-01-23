@@ -64,3 +64,4 @@
 2026-01-22 — updated copy and content for Nissan GTR premium showroom
 2026-01-23 — polished premium showroom UI styling
 2026-01-23 — improved transitions between GTR detail sections
+2026-01-23 — optimized assets and bundle for faster load
