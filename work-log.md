@@ -62,3 +62,4 @@
 2026-01-21 — added performance tweaks for Three.js rendering
 2026-01-21 — connected UI controls to GTR camera perspectives
 2026-01-22 — updated copy and content for Nissan GTR premium showroom
+2026-01-23 — polished premium showroom UI styling
