@@ -67,3 +67,4 @@
 2026-01-23 — optimized assets and bundle for faster load
 2026-01-23 — added final tweaks for GTR presentation and interactions
 2026-01-24 — refined responsive behavior for GTR showroom pages
+2026-01-24 — adjusted typography and color palette for premium feel
