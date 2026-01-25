@@ -70,3 +70,4 @@
 2026-01-24 — adjusted typography and color palette for premium feel
 2026-01-24 — updated documentation and notes for Nissan GTR project
 2026-01-25 — optimized Three.js canvas size for mobile screens
+2026-01-25 — adjusted touch controls for 3D Nissan GTR rotation
