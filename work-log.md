@@ -72,3 +72,4 @@
 2026-01-25 — optimized Three.js canvas size for mobile screens
 2026-01-25 — adjusted touch controls for 3D Nissan GTR rotation
 2026-01-26 — refactored showroom layout for mobile viewports
+2026-01-26 — optimized texture resolutions for mobile performance
