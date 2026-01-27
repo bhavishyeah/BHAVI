@@ -75,3 +75,4 @@
 2026-01-26 — optimized texture resolutions for mobile performance
 2026-01-26 — fixed scaling issues on portrait orientation
 2026-01-27 — implemented mobile-friendly navigation drawer
+2026-01-27 — streamlined UI overlays for smaller screens
