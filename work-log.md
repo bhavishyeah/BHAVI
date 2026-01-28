@@ -78,3 +78,4 @@
 2026-01-27 — streamlined UI overlays for smaller screens
 2026-01-28 — added responsive breakpoints for premium typography
 2026-01-28 — optimized asset loading sequence for mobile networks
+2026-01-28 — tweaked lighting intensity for mobile shaders
