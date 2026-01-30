@@ -82,3 +82,4 @@
 2026-01-28 — tested and fixed layout shifts on small viewports
 2026-01-29 — fine-tuned 3D model positioning for mobile view
 2026-01-30 — enhanced touch gesture response for GTR inspection
+2026-01-30 — cleaned up mobile CSS padding and margins
