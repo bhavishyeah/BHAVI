@@ -104,3 +104,4 @@
 2026-01-17 — cleaned up redundant css classes from home template
 2026-01-17 — added metadata and seo tags to index page header
 2026-02-01 — initial setup for shecanfoundation homepage and grid architecture
+2026-02-01 — added foundation hero section header text and assets
