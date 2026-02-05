@@ -114,3 +114,4 @@
 2026-02-03 — added comprehensive footer layout with media handles
 2026-02-05 — refined mobile responsive navigation collapse breakpoints
 2026-02-05 — fixed alignment flexbox bugs on medium-sized screens
+2026-02-05 — adjusted typography styling hierarchy and line heights
