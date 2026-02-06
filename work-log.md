@@ -115,3 +115,4 @@
 2026-02-05 — refined mobile responsive navigation collapse breakpoints
 2026-02-05 — fixed alignment flexbox bugs on medium-sized screens
 2026-02-05 — adjusted typography styling hierarchy and line heights
+2026-02-06 — added basic quick faq information toggle block
